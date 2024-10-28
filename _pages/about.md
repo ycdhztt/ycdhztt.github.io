@@ -15,6 +15,6 @@ I actively participate in club activities and academic competitions. Through tea
 
 Contact details
 =====
-You can find my Cv here: [Hou Zihan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Hou Zihan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:2115139452@qq.com)/[Github](https://github.com/ycdhztt)/[Wechat](../images/wechat.jpg)/[QQ](../images/QQ.jpg)
+[Email](mailto:2115139452@qq.com)/[Github](https://github.com/ycdhztt)/[Wechat](../images/Wechat.jpg)/[QQ](../images/QQ.jpg)
